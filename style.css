@@ -21,3 +21,7 @@ h2 {
 .in-stock {
     color: green;
 }
+
+.highlight {
+    font-weight: bold;
+}
