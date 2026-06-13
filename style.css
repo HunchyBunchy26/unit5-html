@@ -1,0 +1,23 @@
+body {
+    font-family: Times New Roman, serif;
+}
+
+header {
+    background-color: #58c90c;
+    padding: 1rem;
+    font-style: italic;
+}
+
+h1 {
+    font-size: 50px;
+    color: #c90c6a;
+}
+
+h2 {
+    font-size: 30px;
+    color: #0c6ac9;
+}
+
+.in-stock {
+    color: green;
+}
